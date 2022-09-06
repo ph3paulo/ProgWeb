@@ -1,0 +1,88 @@
+body{
+    background-color: white;
+    color: rgb(15, 20, 25);
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+a:hover{
+    background-color:  rgba(15, 25, 20, 0.1);
+    border-radius: 100%;
+}
+
+#menu a{
+    color:rgb(15, 20, 25);
+    text-decoration: none;
+}
+
+#statiticas{
+    color: rgb(83, 100, 113);
+}
+
+#statiticas li > span{
+    color: rgb(15, 20, 25);
+    font-weight: bold;
+    text-decoration: underline;
+}
+#statiticas a:hover{
+    text-decoration: underline;
+}
+.statis_text{
+    color: rgb(83, 100, 113);
+}
+
+a.um:hover{
+    background-color: red;
+    border-radius: 100%;
+}
+
+a.dois:hover{
+
+    background-color: yellow;
+    border-radius: 100%;
+}
+
+a.tres:hover{
+    background-color: blueviolet;
+    border-radius: 100%;
+}
+
+a.quatro:hover{
+    background-color: aqua;
+    border-radius: 100%;
+}
+
+.imagen{
+    max-width: 1.5%;
+    max-height: 1.5%;
+    border-radius: 50%;
+}
+
+#acoes{
+    color:rgb(83, 100, 113);
+}
+
+.nome_completo{
+    color:rgb(15, 20, 25);
+}
+
+#nome_subtitulo{
+    color:rgb(83, 100, 113);
+}
+
+#biografia{
+    color:rgb(15, 20, 25);
+}
+
+#info{
+    color:rgb(83, 100, 113);
+}
+
+#tzeet{
+    cursor: url(http://www.webcis.com.br/images/lupa-clientes.cur), default;
+}
